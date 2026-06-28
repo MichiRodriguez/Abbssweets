@@ -7,8 +7,8 @@ Landing page para Abbssweets, repostería artesanal. Página estática, responsi
 Abre `src/index.html` directamente en el navegador, o sirve la carpeta con un servidor local:
 
 ```bash
-npx serve .
-# luego entra a http://localhost:3000/src/index.html
+pnpm run dev
+# luego entra a http://localhost:1234/
 ```
 
 ## Secciones
